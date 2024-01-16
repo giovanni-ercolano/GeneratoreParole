@@ -15,7 +15,7 @@ L'app "Reazione a Catena" replica il famoso gioco televisivo. Ogni squadra è co
 
 ## Installazione
 1. **Clone del Repository:**
--git clone https://github.com/tuonela27/reazione-a-catena.git
+- git clone https://github.com/tuonela27/reazione-a-catena.git
 2. **Configurazione del Progetto:**
 - Apri il progetto nell'IDE.
 - Assicurati di avere le dipendenze installate.
