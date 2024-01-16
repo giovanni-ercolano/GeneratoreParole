@@ -609,7 +609,6 @@ nessuno
 niente
 nobile
 nome
-non
 nord
 normale
 nostro
@@ -623,8 +622,6 @@ nulla
 numero
 numeroso
 nuovo
-né
-o
 occasione
 occhio
 occorrere
@@ -633,9 +630,7 @@ offendere
 offrire
 oggetto
 oggi
-ogni
 ognuno
-oh
 oltre
 ombra
 onore
@@ -644,9 +639,7 @@ operaio
 operazione
 opinione
 opporre
-oppure
 ora
-oramai
 ordinare
 ordine
 orecchio
@@ -688,7 +681,6 @@ pelle
 pena
 pensare
 pensiero
-per
 perché
 perciò
 perdere
@@ -701,7 +693,6 @@ permettere
 persona
 personaggio
 personale
-però
 pesare
 peso
 pezzo
